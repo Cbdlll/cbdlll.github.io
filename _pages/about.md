@@ -16,8 +16,15 @@ My research interests include:
 * Automated Penetration Testing
 * LLM Jailbreak
 
+Publications
+======
+1. **ShadowPen: Synergizing Human Strategy with Proactive Shadow Agent for XSS Testing**  
+   *International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)*  
+   **First Author**
+2. **JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**  
+   *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) Findings Paper*  
+   **Third Author**
+
 News
 ======
-* ...
-
-<!-- * [2024.01] One paper accepted by XXX! -->
+* [2025.04] Two papers accepted by CSCWD 2026 and ACL 2026 Findings!

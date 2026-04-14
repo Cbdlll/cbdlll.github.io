@@ -22,7 +22,7 @@ repository               : "cbdlll/cbdlll.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # Place your profile picture in images/profile.png
+  avatar           : "ArtemisII_Poster_11x17_300ppi_CMYK~large.jpg" # Place your profile picture in images/profile.png
   name             : "Jianguo Wu"
   pronouns         : # example: "she/her"  
   bio              : "Master Student at Institute of Information Engineering, Chinese Academy of Sciences."

@@ -14,11 +14,6 @@ Education
 * M.S. in Cyber Security, Institute of Information Engineering, CAS, 2024 - 2027 (expected)
 * B.E. in Cyber Security, Northeast Forestry University, 2020 - 2024
 
-Skills
-======
-* Programming: Python, C/C++, Java
-* Tools: Git, Docker, LaTeX
-
 Publications
 ======
 * **ShadowPen: Synergizing Human Strategy with Proactive Shadow Agent for XSS Testing**  

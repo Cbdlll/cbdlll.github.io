@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Cyber Security, Institute of Information Engineering, CAS, 2024 - 2027 (expected)
-* B.E. in Cyber Security, Northeast Forestry University, 2020 - 2024
+* B.E. in Software Engineering, Northeast Forestry University, 2020 - 2024
 
 Publications
 ======

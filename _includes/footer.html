@@ -1,16 +1,5 @@
 {% include base_path %}
 
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.author.github %}
-    <li><strong>Follow:</strong></li>
-    <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i>
-        GitHub</a></li>
-    {% endif %}
-    <li><a href="{{ base_path }}/sitemap/"><i class="fa fa-fw fa-sitemap" aria-hidden="true"></i> Sitemap</a></li>
-  </ul>
-</div>
-
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Powered by <a href="https://jekyllrb.com"
     rel="nofollow">Jekyll</a> &amp; <a

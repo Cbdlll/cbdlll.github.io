@@ -58,6 +58,23 @@
     font-size: 1em;
   }
 
+  li code {
+    font-size: 0.8em;
+    padding: 2px 8px;
+    border-radius: 3px;
+    background: var(--global-border-color);
+    color: var(--global-text-color);
+    font-family: $sans-serif;
+    vertical-align: middle;
+  }
+
+  p > i.fas,
+  li > i.fas {
+    color: var(--global-link-color);
+    width: 1.2em;
+    text-align: center;
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;

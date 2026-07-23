@@ -18,10 +18,10 @@ Publications
 ======
 * **ShadowPen: Synergizing Human Strategy with Proactive Shadow Agent for XSS Testing**  
   *29th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)*<br>
-  <span class="author-role">First Author</span>
+  <code class="author-role">First Author</code>
 * **JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**  
   *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Findings)*<br>
-  <span class="author-role">Third Author</span>
+  <code class="author-role">Third Author</code>
 * **SecPrompt V2: Protect LLM-Integrated Applications from Adversarial Attack**<br>
   *2026 22nd International Conference on Intelligent Computing (ICIC 2026)*<br>
-  <span class="author-role">Second Author</span>
+  <code class="author-role">Second Author</code>

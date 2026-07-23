@@ -19,8 +19,8 @@ My research interests include:
 Publications
 ======
 1. **ShadowPen: Synergizing Human Strategy with Proactive Shadow Agent for XSS Testing**
-   *29th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)* <span class="author-role">First Author</span>
+   *29th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)* <code class="author-role">First Author</code>
 2. **JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**
-   *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Findings)* <span class="author-role">Third Author</span>
+   *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Findings)* <code class="author-role">Third Author</code>
 3. **SecPrompt V2: Protect LLM-Integrated Applications from Adversarial Attack**
-   *2026 22nd International Conference on Intelligent Computing (ICIC 2026)* <span class="author-role">Second Author</span>
+   *2026 22nd International Conference on Intelligent Computing (ICIC 2026)* <code class="author-role">Second Author</code>

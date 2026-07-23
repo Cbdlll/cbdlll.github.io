@@ -40,3 +40,22 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.author-role {
+  display: inline-block;
+  padding: 0.125em 0.5em;
+  border: 1px solid #0e7490;
+  border-radius: 3px;
+  background-color: #e0f2fe;
+  color: #075985;
+  font-size: 0.75em;
+  font-weight: 600;
+  line-height: 1.4;
+  vertical-align: baseline;
+}
+
+html[data-theme="dark"] .author-role {
+  border-color: #38bdf8;
+  background-color: #0c4a6e;
+  color: #e0f2fe;
+}

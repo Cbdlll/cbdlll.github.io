@@ -17,8 +17,11 @@ Education
 Publications
 ======
 * **ShadowPen: Synergizing Human Strategy with Proactive Shadow Agent for XSS Testing**  
-  *International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)*  
-  **First Author**
+  *29th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2026)*<br>
+  **First Author · CCF-C**
 * **JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models**  
-  *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026) Findings Paper*  
-  **Third Author**
+  *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Findings)*<br>
+  **Third Author · CCF-A**
+* **SecPrompt V2: Protect LLM-Integrated Applications from Adversarial Attack**<br>
+  *2026 22nd International Conference on Intelligent Computing (ICIC 2026)*<br>
+  **Second Author · CCF-C**
